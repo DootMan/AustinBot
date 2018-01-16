@@ -35,8 +35,8 @@ IF you are going to use the bot I am hosting, please consider donating some mone
 https://www.paypal.com/pools/c/8146GlZ5tI
 
 I also accept cryptocurrencies:
-Ethereum:0x91fde217071E3357f8344847143d9241d5E361c7
-Litecoin:LbgUfDLb7mRmeYfMD5H5fDeAvqPVTRxQqn
-Bitcoin Cash:112U7WtpgQjqTodvvUiRMMuqH99CtCCHWn
+ -   Ethereum:0x91fde217071E3357f8344847143d9241d5E361c7
+ - Litecoin:LbgUfDLb7mRmeYfMD5H5fDeAvqPVTRxQqn
+ -  Bitcoin Cash:112U7WtpgQjqTodvvUiRMMuqH99CtCCHWn
 
 
