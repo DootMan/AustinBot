@@ -34,7 +34,7 @@ https://discordapp.com/oauth2/authorize?client_id=339571340950503424&scope=bot
 
 IF you are going to use the bot I am hosting, please consider donating some money so I can pay for server cost(Even if its only $5 dollars, that will be albe to pay for half a month of hosting!)
 
-https://www.paypal.com/pools/c/8146GlZ5tI
+paypal.me/SpookySkele
 
 I also accept cryptocurrencies:
  -  Ethereum:0x91fde217071E3357f8344847143d9241d5E361c7
