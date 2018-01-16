@@ -32,7 +32,7 @@ For the markov command to work it needs a text file, the bigger the better. I ha
 
 https://discordapp.com/oauth2/authorize?client_id=339571340950503424&scope=bot
 
-IF you are going to use the bot I am hosting, please consider donating some money so I can pay for server cost(Even if its only $5 dollars, that will be albe to pay for half a month of hosting!)
+IF you are going to use the bot I am hosting, please consider donating some money so I can pay for server cost(Even if its only $5 dollars, that will be able to pay for half a month of hosting!)
 
 paypal.me/SpookySkele
 
