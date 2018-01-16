@@ -25,17 +25,19 @@ Commands:
 
 Make sure you have the dependencies installed, make sure you have your api keys in the correct places.
 
+For the markov command to work it needs a text file, the bigger the better. I have provided one made of copypastas from reddit.(Consider reading the Markovify.py github page for more info.)
+
 
 ### Don't want to host the bot yourself?
 
 https://discordapp.com/oauth2/authorize?client_id=339571340950503424&scope=bot
 
-IF you are going to use the bot I am hosting, please consider donating some money so i can pay for server cost(Even if its only $5 dollars, that will be albe to pay for half a month of hosting!)
+IF you are going to use the bot I am hosting, please consider donating some money so I can pay for server cost(Even if its only $5 dollars, that will be albe to pay for half a month of hosting!)
 
 https://www.paypal.com/pools/c/8146GlZ5tI
 
 I also accept cryptocurrencies:
- -   Ethereum:0x91fde217071E3357f8344847143d9241d5E361c7
+ -  Ethereum:0x91fde217071E3357f8344847143d9241d5E361c7
  - Litecoin:LbgUfDLb7mRmeYfMD5H5fDeAvqPVTRxQqn
  -  Bitcoin Cash:112U7WtpgQjqTodvvUiRMMuqH99CtCCHWn
 
