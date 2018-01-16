@@ -1,7 +1,7 @@
 # AustinBot
 A discord bot that does some things.
 
-This bot is a working in progress, currently working on polishing the existing commands so I can add new ones.
+This bot is a work in progress, currently working on polishing the existing commands so I can add new ones.
 
 Commands:
 -	$help: Displays a currently unhelpful help message.
